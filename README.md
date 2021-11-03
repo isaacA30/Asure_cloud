@@ -5,6 +5,7 @@ Elk server made inside the cloud
 The files in this repository were used to configure the network depicted below.
 
 Images/Elk_Stack.drawio
+![Elk](https://user-images.githubusercontent.com/85818103/140018092-824abe4f-f286-447d-8727-4f3a2f676221.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Elk_Stack.io file may be used to install only certain pieces of it, such as Filebeat.
 
